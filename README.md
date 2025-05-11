@@ -22,9 +22,9 @@ To find the optimal allocation of assets in a portfolio that maximizes expected 
 
 * Formula:
 
-  
-  \( r_t = \frac{P_t - P_{t-1}}{P_{t-1}} \)
-  
+  $$
+  r_t = \frac{P_t - P_{t-1}}{P_{t-1}}
+  $$
 
   where $r_t$ is the return on day $t$ and $P_t$ is the adjusted closing price.
 
